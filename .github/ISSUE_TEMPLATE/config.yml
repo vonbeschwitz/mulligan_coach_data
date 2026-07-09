@@ -1,0 +1,10 @@
+# Issue-template chooser config for the PUBLIC data repo.
+blank_issues_enabled: true
+
+# The in-app "Send feedback…" entry also points here (or at the Google
+# Form). Surfacing the form on the chooser gives users the same quick
+# path from the web.
+contact_links:
+  - name: Send feedback via Google Form
+    url: https://docs.google.com/forms/d/e/1FAIpQLSf4LpTPVScCZsXIGNXZ53y7_S2rRK2bVFLYfL1-ffbIFL0jMw/viewform
+    about: Quick structured feedback (pre-fills your app/data/OS versions).
